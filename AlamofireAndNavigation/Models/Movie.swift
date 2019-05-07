@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+class Movie {
+    
+    var image = "https://image.tmdb.org/t/p/w185"
+    var title: String?
+}
